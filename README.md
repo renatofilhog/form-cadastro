@@ -1,1 +1,1 @@
-Formulário responsivo, não tá muito bonito pois a criatividade faltou um pouco.
+Formulário responsivo, sem muitas estilizações e sem uso de JavaScript somente o básico.
